@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kellen Wiltshire</h1>
 <h3 align="center">A self-taught Web Developer from Canada</h3>
 
-- 🔭 I’m currently working on [We Made It](https://github.com/kellenwiltshire/we-made-it)
+- 🔭 I’m currently working on [Women On Par](https://github.com/kellenwiltshire/women-on-par)
 
 - 🤝 I’m looking for help with [Flip The Show](https://github.com/kellenwiltshire/fliptheshow)
 
