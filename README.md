@@ -7,11 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [https://kellenwiltshire.com](https://kellenwiltshire.com)
 
-- 💬 Ask me about **React, NextJS, TailwindCSS**
+- 💬 Ask me about **React, NextJS, TailwindCSS, Typescript, Emotion**
 
 - 📫 How to reach me **webdevelopment@kellenwiltshire.com**
-
-[![Kellen Wiltshire's GitHub stats](https://github-readme-stats.vercel.app/api?username=kellenwiltshire)](https://github.com/kellenwiltshire/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
