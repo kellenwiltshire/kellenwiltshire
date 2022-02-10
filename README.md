@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kellen Wiltshire</h1>
 <h3 align="center">A self-taught Web Developer from Canada</h3>
 
-- 🔭 I’m currently working on [Women On Par](https://github.com/kellenwiltshire/women-on-par)
-
-- 🤝 I’m looking for help with [Flip The Show](https://github.com/kellenwiltshire/fliptheshow)
-
 - 👨‍💻 All of my projects are available at [https://kellenwiltshire.com](https://kellenwiltshire.com)
 
 - 💬 Ask me about **React, NextJS, TailwindCSS, Typescript, Emotion**
