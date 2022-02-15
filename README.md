@@ -1,17 +1,20 @@
+
+
 <h1 align="center">Hi 👋, I'm Kellen Wiltshire</h1>
-<h3 align="center">A self-taught Web Developer from Canada</h3>
+<h3 align="center">I'm a Web Developer</h3>
+I am a self-taught Web Developer looking for the next step in my journey. I have taught myself with the help of online courses how to create beautiful and functional websites combining the latest frameworks and technologies. I have knowledge of React, Javascript/Typescript, TailwindCSS, Styled Components, as well as traditional HTML5 and CSS3. I am ready for the next step in my Web Development career.
 
-- 👨‍💻 All of my projects are available at [https://kellenwiltshire.com](https://kellenwiltshire.com)
+Skills: REACT / JAVASCRIPT / NEXTJS / TYPESCRIPT / TAILWINDCSS
 
-- 💬 Ask me about **React, NextJS, TailwindCSS, Typescript, Emotion**
+- 🔭 I’m currently working on Freelance Projects 
+- 👯 I’m looking to collaborate on Anything and Everything! 
+- 💬 Ask me about NextJS / TailwindCSS 
+- 📫 How to reach me: webdevelopment@kellenwiltshire.com 
 
-- 📫 How to reach me **webdevelopment@kellenwiltshire.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kellenwiltshire" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kellenwiltshire" height="30" width="40" /></a>
-</p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kellenwiltshire)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kellenwiltshire/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](kellenwiltshire.com)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+![GitHub metrics](https://metrics.lecoq.io/kellenwiltshire)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kellenwiltshire)  
 
