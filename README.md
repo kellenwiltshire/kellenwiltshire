@@ -15,7 +15,4 @@ Skills: REACT / JAVASCRIPT / NEXTJS / TYPESCRIPT / TAILWINDCSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kellenwiltshire)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kellenwiltshire/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](kellenwiltshire.com)  
 
-![GitHub metrics](https://metrics.lecoq.io/kellenwiltshire)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kellenwiltshire)  
 
