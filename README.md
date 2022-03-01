@@ -14,5 +14,7 @@ Skills: REACT / JAVASCRIPT / NEXTJS / TYPESCRIPT / TAILWINDCSS
 
 
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kellenwiltshire/)  
+ 
+ [<img src='https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/github/github-original-wordmark.svg' height='40'>]
 
 
