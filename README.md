@@ -12,6 +12,8 @@ Skills: REACT / JAVASCRIPT / NEXTJS / TYPESCRIPT / TAILWINDCSS
 - 💬 Ask me about NextJS / TailwindCSS 
 - 📫 How to reach me: webdevelopment@kellenwiltshire.com 
 
+View My Portfolio at [kellenwiltshire.com](https://kellenwiltshire.com)
+
 
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kellenwiltshire/)  
  
