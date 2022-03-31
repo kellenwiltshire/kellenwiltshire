@@ -1,8 +1,8 @@
 
 
 <h1 align="center">Hi 👋, I'm Kellen Wiltshire</h1>
-<h3 align="center">I'm a Web Developer</h3>
-<p>I am a self-taught Web Developer looking for the next step in my journey. I have taught myself with the help of online courses how to create beautiful and functional websites combining the latest frameworks and technologies. I have knowledge of React, Javascript/Typescript, TailwindCSS, Styled Components, as well as traditional HTML5 and CSS3. I am ready for the next step in my Web Development career.</p>
+<h3 align="center">I'm a Full-Stack Web Developer</h3>
+<p>I am a passionate full-stack developer specializing in all aspects of Web Development looking for the next step in my journey. I have the experience to create beautiful and functional websites combining the latest frameworks and technologies. I have experience React, Javascript/Typescript, TailwindCSS, Styled Components, as well as traditional HTML5 and CSS3. I am currently look for a new Web Development career opportunity!</p>
 
 
 <h4>Skills: REACT / NEXTJS / JAVASCRIPT / TYPESCRIPT / TAILWINDCSS / STYLED COMPONENTS </h4>
