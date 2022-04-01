@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋, my name is Kellen Wiltshire</h1>
 <h3 align="center"> I am a Full-Stack Web Developer</h3>
-<p>I am a passionate full-stack developer specializing in all aspects of Web Development looking for the next step in my journey. I have the experience to create beautiful and functional websites combining the latest frameworks and technologies. I have experience in React, Javascript/Typescript, TailwindCSS, Styled Components, as well as traditional HTML5 and CSS3. I am currently look for a new Web Development career opportunity! </p>
+<p>I am a passionate full-stack developer specializing in all aspects of Web Development looking for the next step in my career. I have the experience to create beautiful and functional websites combining the latest frameworks and technologies. I have experience in React, Javascript/Typescript, TailwindCSS, Styled Components, as well as traditional HTML5 and CSS3. I am currently look for a new Web Development career opportunity! </p>
 
 <p>
 Skills: REACT / NEXTJS / JAVASCRIPT / TYPESCRIPT / TAILWINDCSS / STYLED COMPONENTS 
