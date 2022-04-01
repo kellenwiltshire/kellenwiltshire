@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Kellen Wiltshire
+<h1 align="center"> Hi there 👋, my name is Kellen Wiltshire</h1>
 #### I am a Full-Stack Web Developer
 I am a passionate full-stack developer specializing in all aspects of Web Development looking for the next step in my journey. I have the experience to create beautiful and functional websites combining the latest frameworks and technologies. I have experience in React, Javascript/Typescript, TailwindCSS, Styled Components, as well as traditional HTML5 and CSS3. I am currently look for a new Web Development career opportunity! 
 
