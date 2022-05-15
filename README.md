@@ -8,7 +8,7 @@ Skills: REACT / NEXTJS / JAVASCRIPT / TYPESCRIPT / TAILWINDCSS / STYLED COMPONEN
 
 <ul>
   <li> 🔭 I’m currently working on Freelance Projects </li>
-<li> 🌱 I’m currently learning Vue </li>
+<li> 🌱 I’m currently improving my React Skills! </li>
 <li> 💬 Ask me about NextJS and TailwindCSS </li>
 <li> 📫 How to reach me: webdevelopment@kellenwiltshire.com </li>
 <li> ⚡ Fun fact: I love to bake bread while I try to work out code bugs! </li>
