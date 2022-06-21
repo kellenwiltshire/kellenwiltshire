@@ -12,7 +12,7 @@ Skills: REACT / NEXTJS / JAVASCRIPT / TYPESCRIPT / TAILWINDCSS / STYLED COMPONEN
 <li> 💬 Ask me about NextJS/React and TailwindCSS </li>
 <li> 📫 How to reach me: webdevelopment@kellenwiltshire.com </li>
 <li> ⚡ Fun fact: I love to bake bread while I try to work out code bugs! </li>
-  <li>📜 Completed: 
+  <li>📜 Courses and Certifications: 
     <ul>
       <li>The Complete Web Developer in 2021 by Zero to Mastery</li>
       <li>JavaScript Algorithms and Data Structures by freeCodeCamp.org</li>
