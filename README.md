@@ -14,8 +14,8 @@ Skills: REACT / NEXTJS / JAVASCRIPT / TYPESCRIPT / TAILWINDCSS / STYLED COMPONEN
 <li> ⚡ Fun fact: I love to bake bread while I try to work out code bugs! </li>
   <li>📜 Completed: 
     <ul>
-      <li>- The Complete Web Developer in 2021 by Zero to Mastery</li>
-      <li>- JavaScript Algorithms and Data Structures by freeCodeCamp.org</li>
+      <li>The Complete Web Developer in 2021 by Zero to Mastery</li>
+      <li>JavaScript Algorithms and Data Structures by freeCodeCamp.org</li>
     </ul>
   </li>
 </ul>
