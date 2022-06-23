@@ -8,7 +8,7 @@ Skills: REACT / NEXTJS / JAVASCRIPT / TYPESCRIPT / TAILWINDCSS / STYLED COMPONEN
 
 <ul>
   <li> 🔭 I’m currently working on Freelance Projects </li>
-<li> 🌱 I’m currently completing the course Epic React by Kent C. Dodds! </li>
+<li> 🌱 I’m currently completing the courses Epic React by Kent C. Dodds and Junior to Senior Web Developer by Zero to Mastery! </li>
 <li> 💬 Ask me about NextJS/React and TailwindCSS </li>
 <li> 📫 How to reach me: webdevelopment@kellenwiltshire.com </li>
 <li> ⚡ Fun fact: I love to bake bread while I try to work out code bugs! </li>
