@@ -1,6 +1,8 @@
 <h1 align="center"> Hi there 👋, my name is Kellen Wiltshire</h1>
 <h3 align="center"> I am a Full-Stack Web Developer</h3>
-<p>I am a passionate Full Stack Developer with love for ReactJS(NextJS). I have the experience to create beautiful and functional websites combining the latest frameworks and technologies such as React, Javascript/Typescript, TailwindCSS, Emotion Styled Components, as well as traditional HTML and CSS. Further I have experience with NodeJS, ExpressJS, PostgreSQL, and SSH. </p>
+<p>I am a Web Developer with a passion for ReactJS(NextJS). I have the experience to create beautiful and functional websites combining the latest frameworks and technologies such as React, Javascript/Typescript, TailwindCSS, Emotion Styled Components, as well as traditional HTML and CSS. Further I have experience with NodeJS, ExpressJS, PostgreSQL, and SSH. </p>
+
+<p>Check out more about me on my portfolio: https://kellenwiltshire.com </p>
 
 <p>
 Skills: REACT / NEXTJS / JAVASCRIPT / TYPESCRIPT / TAILWINDCSS / STYLED COMPONENTS 
