@@ -20,6 +20,5 @@ Skills: REACT / NEXTJS / JAVASCRIPT / TYPESCRIPT / TAILWINDCSS / STYLED COMPONEN
   </li>
 </ul>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kellenwiltshire)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kellenwiltshire/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://kellenwiltshire.com)  
-
-![Profile views](https://gpvc.arturio.dev/kellenwiltshire)  
+<a href="https://www.linkedin.com/in/kellenwiltshire/">LinkedIn</a>
+<a href="https://kellenwiltshire.com">Portfolio</a>
