@@ -6,7 +6,7 @@ I'm a Software Developer with 5+ years of experience building web applications, 
 
 I enjoy exploring technology beyond the browser, too. Whether that's building backend services, experimenting with Docker, contributing to open-source projects, or running my own homelab, I'm always looking for something new to build, improve, or break (and hopefully fix).
 
-🌐 [GitHub](https://github.com/kellenwiltshire)
+🌐 [Website](https://kellenwiltshire.com)
 
 ---
 
