@@ -59,15 +59,17 @@ A self-hosted form backend that allows websites to accept submissions and delive
 
 **Technologies:** Go · PostgreSQL · Docker
 
-### [Subsurface](https://github.com/subsurface/subsurface)
+### [Subsurface Docker](YOUR_DOCKER_REPOSITORY_URL)
 
-Exploring ways to make Subsurface, an open-source scuba diving logbook, easier to develop and run through Docker.
+An independently maintained Docker deployment of Subsurface, bringing the desktop scuba diving logbook application to the browser through a lightweight, containerized environment.
 
-- Building a browser-accessible development environment.
-- Working with Linux desktop environments and containerization.
-- Exploring X11, VNC, and noVNC for remote application access.
+- Built and maintained a custom Docker image based on Ubuntu.
+- Provides browser-based access through noVNC and a virtual X11 desktop.
+- Includes a non-root runtime environment and persistent storage for user data and configuration.
+- Uses a custom container startup environment with Xvfb and Openbox.
+- Focuses on simplifying deployment and making Subsurface accessible without a traditional desktop installation.
 
-**Technologies:** Docker · Linux · Bash
+**Technologies:** Docker · Linux · Ubuntu · X11 · noVNC · Bash
 
 ---
 
