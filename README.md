@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="assets/profile-banner.png" width="100%" alt="Scuba diver exploring an underwater reef">
-</p>
 # Hey, I'm Kellen 👋
 
 ### Software Developer · Homelab Enthusiast · Open Source
