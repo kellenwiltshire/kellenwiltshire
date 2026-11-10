@@ -59,7 +59,7 @@ A self-hosted form backend that allows websites to accept submissions and delive
 
 **Technologies:** Go · PostgreSQL · Docker
 
-### [Subsurface Docker](YOUR_DOCKER_REPOSITORY_URL)
+### [Subsurface Docker](https://github.com/kellenwiltshire/subsurface-docker)
 
 An independently maintained Docker deployment of Subsurface, bringing the desktop scuba diving logbook application to the browser through a lightweight, containerized environment.
 
