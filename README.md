@@ -50,13 +50,15 @@ A self-hosted form backend that allows websites to accept submissions and delive
 
 ### [Rate The Landlord](https://github.com/RateTheLandlord/rtl-frontend)
 
-A community-driven platform helping renters share experiences and make more informed housing decisions.
+Co-founder and primary developer of Rate The Landlord, a community-driven platform helping renters share experiences and make more informed housing decisions.
 
-- Contributing to the development and maintenance of a production application.
-- Working with modern frontend technologies and application architecture.
-- Collaborating through GitHub and established development workflows.
+- Co-founded the project and lead its technical development.
+- Building and maintaining the application and its underlying architecture.
+- Developing frontend features and application functionality using Next.js and TypeScript.
+- Managing development workflows, code quality, and ongoing improvements.
+- Contributing to the growth and maintenance of a production application.
 
-**Technologies:** React · Next.js · TypeScript
+**Technologies:** Next.js · React · TypeScript
 
 ### [Subsurface](https://github.com/subsurface/subsurface)
 
