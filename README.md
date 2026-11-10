@@ -2,7 +2,7 @@
 
 ### Software Developer · Homelab Enthusiast · Open Source
 
-I'm a Software Developer at **Hootsuite** with 5+ years of experience building web applications, primarily working with React, TypeScript, and modern frontend technologies.
+I'm a Software Developer with 5+ years of experience building web applications, primarily working with React, TypeScript, and modern frontend technologies.
 
 Outside of work, I enjoy exploring technology beyond the browser. Whether that's building backend services, experimenting with Docker, contributing to open-source projects, or running my own homelab, I'm always looking for something new to build, improve, or break (and hopefully fix).
 
