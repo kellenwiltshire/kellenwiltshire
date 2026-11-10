@@ -2,18 +2,18 @@
 
 ### Software Developer · Homelab Enthusiast · Open Source
 
-I'm a Software Developer with 5+ years of experience building web applications, primarily working with React, TypeScript, and modern frontend technologies.
+I'm a Software Developer at **Hootsuite** with 5+ years of experience building web applications, primarily working with React, TypeScript, and modern frontend technologies.
 
-I enjoy exploring technology beyond the browser, too. Whether that's building backend services, experimenting with Docker, contributing to open-source projects, or running my own homelab, I'm always looking for something new to build, improve, or break (and hopefully fix).
+Outside of work, I enjoy exploring technology beyond the browser. Whether that's building backend services, experimenting with Docker, contributing to open-source projects, or running my own homelab, I'm always looking for something new to build, improve, or break (and hopefully fix).
 
-🌐 [Website](https://kellenwiltshire.com)
+🌐 [Personal Website](https://kellenwiltshire.com) · [GitHub](https://github.com/kellenwiltshire)
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 Areas of Interest
 
 - **Web Development:** Building modern, performant web applications with React, Next.js, and TypeScript.
-- **Backend Development:** Expanding my experience with Go, PostgreSQL, API design, and backend architecture.
+- **Backend Development:** Exploring Go, PostgreSQL, API design, and backend architecture.
 - **Self-Hosting:** Managing a homelab running Unraid, Docker, and a collection of self-hosted services.
 - **Open Source:** Contributing to projects, improving developer tooling, and learning through collaboration.
 
@@ -37,6 +37,17 @@ Git · GitHub · Neovim · LazyVim
 
 ## 📌 Featured Projects
 
+### [Rate The Landlord](https://github.com/RateTheLandlord/rtl-frontend)
+
+Co-founder and lead developer of a community-driven platform helping renters share experiences and make more informed housing decisions.
+
+- Co-founded the project and lead its technical development.
+- Building and maintaining the application and its underlying architecture.
+- Developing frontend features and application functionality.
+- Managing development workflows, code quality, and ongoing improvements.
+
+**Technologies:** Next.js · React · TypeScript
+
 ### [SiSH Form Mailer](https://github.com/kellenwiltshire/sish-form-mailer)
 
 A self-hosted form backend that allows websites to accept submissions and deliver emails without relying on third-party form services.
@@ -48,21 +59,9 @@ A self-hosted form backend that allows websites to accept submissions and delive
 
 **Technologies:** Go · PostgreSQL · Docker
 
-### [Rate The Landlord](https://github.com/RateTheLandlord/rtl-frontend)
-
-Co-founder and primary developer of Rate The Landlord, a community-driven platform helping renters share experiences and make more informed housing decisions.
-
-- Co-founded the project and lead its technical development.
-- Building and maintaining the application and its underlying architecture.
-- Developing frontend features and application functionality using Next.js and TypeScript.
-- Managing development workflows, code quality, and ongoing improvements.
-- Contributing to the growth and maintenance of a production application.
-
-**Technologies:** Next.js · React · TypeScript
-
 ### [Subsurface](https://github.com/subsurface/subsurface)
 
-An open-source scuba diving logbook application. I've been exploring ways to make Subsurface easier to develop and run through Docker.
+Exploring ways to make Subsurface, an open-source scuba diving logbook, easier to develop and run through Docker.
 
 - Building a browser-accessible development environment.
 - Working with Linux desktop environments and containerization.
