@@ -6,16 +6,16 @@ I'm a Software Developer with 5+ years of experience building web applications, 
 
 I enjoy exploring technology beyond the browser, too. Whether that's building backend services, experimenting with Docker, contributing to open-source projects, or running my own homelab, I'm always looking for something new to build, improve, or break (and hopefully fix).
 
-🌐 [Website](https://kellenwiltshire.com) · [LinkedIn](https://linkedin.com/in/kellenwiltshire)
+🌐 [GitHub](https://github.com/kellenwiltshire)
 
 ---
 
 ## 🚀 What I'm Working On
 
-- **Web Development:** Building performant, maintainable applications with React, Next.js, and TypeScript.
-- **Backend Development:** Exploring Go, PostgreSQL, APIs, and backend architecture.
-- **Self-Hosting:** Running and maintaining services with Docker, Unraid, and Linux.
-- **Open Source:** Contributing to projects, improving tooling, and learning from the developer community.
+- **Web Development:** Building modern, performant web applications with React, Next.js, and TypeScript.
+- **Backend Development:** Expanding my experience with Go, PostgreSQL, API design, and backend architecture.
+- **Self-Hosting:** Managing a homelab running Unraid, Docker, and a collection of self-hosted services.
+- **Open Source:** Contributing to projects, improving developer tooling, and learning through collaboration.
 
 ## 🛠️ Tech Stack
 
@@ -31,23 +31,52 @@ Go · Node.js · PostgreSQL · REST APIs
 
 Docker · Linux · Unraid · GitHub Actions · Bash
 
-**Tools**
+**Tools & Workflow**
 
 Git · GitHub · Neovim · LazyVim
 
 ## 📌 Featured Projects
 
-- **[SiSH Form Mailer](https://github.com/kellenwiltshire/sish-form-mailer)** – A self-hosted form backend for website submissions and email delivery.
-- **[Rate The Landlord](https://github.com/RateTheLandlord/rtl-frontend)** – A community-driven platform for sharing rental experiences.
-- **[Subsurface Docker](https://github.com/kellenwiltshire/subsurface-docker)** – A browser-accessible Docker development environment for Subsurface.
+### [SiSH Form Mailer](https://github.com/kellenwiltshire/sish-form-mailer)
+
+A self-hosted form backend that allows websites to accept submissions and deliver emails without relying on third-party form services.
+
+- Built with Go and PostgreSQL.
+- Asynchronous email delivery using database listeners.
+- Multi-user support and encrypted SMTP credentials.
+- Rate limiting and containerized deployment with Docker.
+
+**Technologies:** Go · PostgreSQL · Docker
+
+### [Rate The Landlord](https://github.com/RateTheLandlord/rtl-frontend)
+
+A community-driven platform helping renters share experiences and make more informed housing decisions.
+
+- Contributing to the development and maintenance of a production application.
+- Working with modern frontend technologies and application architecture.
+- Collaborating through GitHub and established development workflows.
+
+**Technologies:** React · Next.js · TypeScript
+
+### [Subsurface](https://github.com/subsurface/subsurface)
+
+An open-source scuba diving logbook application. I've been exploring ways to make Subsurface easier to develop and run through Docker.
+
+- Building a browser-accessible development environment.
+- Working with Linux desktop environments and containerization.
+- Exploring X11, VNC, and noVNC for remote application access.
+
+**Technologies:** Docker · Linux · Bash
+
+---
 
 ## 🌊 Beyond the Code
 
 When I'm not writing software, you'll probably find me:
 
-- 🤿 Scuba diving and exploring the underwater world.
+- 🤿 Scuba diving and exploring new dive sites.
 - 🖥️ Tinkering with my homelab and self-hosted services.
-- 🐧 Exploring Linux, Docker, and open-source software.
+- 🐧 Exploring Linux and open-source software.
 - 🛠️ Experimenting with new technologies and side projects.
 
 ---
